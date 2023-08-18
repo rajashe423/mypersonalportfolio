@@ -1,35 +1,4 @@
 
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Daniels
-    Theme URI: http://
-    Description: Portfolio Onepage Template
-    Author: creativotheme
-    Author URI: http://themeforest.net/user/creativotheme
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-
-
-/* ----------------------------------------------------------------
-
-TABLE OF CONTENTS
-
-        + scrollIt
-        + close navbar-collapse when clicked
-        + navbar scrolling background
-        + progress bar
-        + magnificPopup
-        + Owl Carsouel
-            - clients carsouel
-            - blog carsouel
-        + stellar
-        + countUp
-        + Preloader
-        + isotope portfolio
-        + contact form validator
-        
----------------------------------------------------------------- */
 
 $(function() {
 
